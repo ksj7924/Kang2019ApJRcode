@@ -1,6 +1,8 @@
 # Kang2019ApJRcode
 
 Repository Citations (Paper I)
+https://ui.adsabs.harvard.edu/abs/2019ApJ...872..189K
+
        
        
        @ARTICLE{2019ApJ...872..189K, 
