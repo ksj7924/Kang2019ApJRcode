@@ -2,9 +2,7 @@
 
 Repository Citations (Paper I)
 
- https://ui.adsabs.harvard.edu/abs/2019ApJ...872..189K
- 
- http://dx.doi.org/10.3847/1538-4357/ab0383
+ https://ui.adsabs.harvard.edu/abs/2019ApJ...872..189K  or  http://dx.doi.org/10.3847/1538-4357/ab0383
 
        
        
