@@ -26,3 +26,7 @@ Repository Citations (Paper I)
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019ApJ...872..189K},
        adsnote = {Provided by the SAO/NASA Astrophysics Data System}
        }
+       
+       
+Repository Citations (Paper II)
+
