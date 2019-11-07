@@ -1,10 +1,11 @@
 # Kang2019ApJRcode
 
 
-@ARTICLE{2019ApJ...872..189K,
+ 
+ @ARTICLE{2019ApJ...872..189K, 
        author = {{Kang}, Shi-Ju and {Fan}, Jun-Hui and {Mao}, Weiming and {Wu}, Qingwen and
-         {Feng}, Jianchao and {Yin}, Yue},
-        title = "{Evaluating the Optical Classification of Fermi BCUs Using Machine Learning}",
+         {Feng}, Jianchao and {Yin}, Yue},  
+        title = "{Evaluating the Optical Classification of Fermi BCUs Using Machine Learning}", 
       journal = {\apj},
      keywords = {BL Lacertae objects: general, gamma rays: galaxies, methods: statistical, quasars: general, Astrophysics - High Energy Astrophysical Phenomena},
          year = "2019",
@@ -20,4 +21,3 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2019ApJ...872..189K},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-
