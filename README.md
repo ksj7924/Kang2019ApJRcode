@@ -1,5 +1,6 @@
 # Kang2019ApJRcode
-Repository Citations
+
+Repository Citations (Paper I)
        
        
        @ARTICLE{2019ApJ...872..189K, 
