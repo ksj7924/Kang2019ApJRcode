@@ -26,7 +26,7 @@ Repository Citations (Paper I)
        }
        
        
-Repository Citations (Paper II)
+Repository Citations (Paper II) https://github.com/ksj7924/Kang2019ApJRcodeb
 
 https://doi.org/10.5281/zenodo.3532199 
      
