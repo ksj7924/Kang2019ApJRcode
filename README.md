@@ -2,7 +2,15 @@
 
 Repository Citations (Paper I)
 
- https://ui.adsabs.harvard.edu/abs/2019ApJ...872..189K  or  http://dx.doi.org/10.3847/1538-4357/ab0383
+include 3 files:
+
+Select_Paramters_ML3LAC_ApJ_2019_1.R
+
+Select_Paramters_data8_1018bf.csv
+
+Select_Paramters_data8_402bcu.csv
+
+https://ui.adsabs.harvard.edu/abs/2019ApJ...872..189K  or  http://dx.doi.org/10.3847/1538-4357/ab0383
 
        
        
@@ -26,9 +34,17 @@ Repository Citations (Paper I)
        }
        
        
-Repository Citations (Paper II) https://github.com/ksj7924/Kang2019ApJRcodeb
+Repository Citations (Paper II)
 
-https://doi.org/10.5281/zenodo.3532199 
+include 3 files:
+
+gll_psc_v20_select_Col_38_order_bcu_1312.csv
+
+gll_psc_v20_select_Col_38_order_bll_fsrq_1825.csv
+
+gll_psc_v20_select_ML4FGL_ApJ_2019_2.R
+
+https://github.com/ksj7924/Kang2019ApJRcodeb or https://doi.org/10.5281/zenodo.3532199 
      
       @misc{Kang_Shi_Ju_3532199,
        author       = {Kang, Shi-Ju},
