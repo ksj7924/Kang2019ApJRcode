@@ -46,13 +46,16 @@ gll_psc_v20_select_ML4FGL_ApJ_2019_2.R
 
 https://github.com/ksj7924/Kang2019ApJRcodeb or https://doi.org/10.5281/zenodo.3532199 
      
-      @misc{Kang_Shi_Ju_3532199,
-       author       = {Kang, Shi-Ju},
-       title        = {{R code for Evaluating the classification of Fermi BCUs from the 4FGL Catalog Using Machine Learning}},
-       month        = Nov,
-       year         = 2019,
-       doi          = {10.5281/zenodo.3532199},
-       version      = {1.0},
-       publisher    = {Zenodo},
-       url          = {https://doi.org/10.5281/zenodo.3532199}
-       }
+BibTeX
+
+    @software{kang_shi_ju_2019_3532199,
+    author       = {Kang, Shi-Ju},
+    title        = {{R code for Evaluating the classification of Fermi BCUs from the 4FGL Catalog Using Machine Learning}},
+    month        = nov,
+    year         = 2019,
+    publisher    = {Zenodo},
+    version      = {v1.0},
+    doi          = {10.5281/zenodo.3532199},
+    url          = {https://doi.org/10.5281/zenodo.3532199}
+    }
+
