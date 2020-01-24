@@ -50,7 +50,7 @@ BibTeX
 
 https://ui.adsabs.harvard.edu/abs/2019ApJ...887..134K or  http://dx.doi.org/10.3847/1538-4357/ab558b
 
-    @ARTICLE{2019ApJ...872..189K,
+
     @ARTICLE{2019ApJ...887..134K,
     author = {{Kang}, Shi-Ju and {Li}, Enze and {Ou}, Wujing and {Zhu}, Kerui and {Fan}, Jun-Hui and {Wu}, Qingwen and {Yin}, Yue},
     title = "{Evaluating the Classification of Fermi BCUs from the 4FGL Catalog Using Machine Learning}",
