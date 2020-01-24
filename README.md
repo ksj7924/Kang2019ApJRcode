@@ -65,7 +65,7 @@ https://ui.adsabs.harvard.edu/abs/2019ApJ...887..134K or  http://dx.doi.org/10.3
     doi             = {10.3847/1538-4357/ab558b},
     archivePrefix   = {arXiv},
     eprint          = {1911.02570},
-    primaryClass   = {astro-ph.HE},
+    primaryClass    = {astro-ph.HE},
     adsurl          = {https://ui.adsabs.harvard.edu/abs/2019ApJ...887..134K},
     adsnote         = {Provided by the SAO/NASA Astrophysics Data System}
     }
