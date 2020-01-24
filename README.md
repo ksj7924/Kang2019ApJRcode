@@ -52,22 +52,22 @@ https://ui.adsabs.harvard.edu/abs/2019ApJ...887..134K or  http://dx.doi.org/10.3
 
 
     @ARTICLE{2019ApJ...887..134K,
-    author = {{Kang}, Shi-Ju and {Li}, Enze and {Ou}, Wujing and {Zhu}, Kerui and {Fan}, Jun-Hui and {Wu}, Qingwen and {Yin}, Yue},
-    title = "{Evaluating the Classification of Fermi BCUs from the 4FGL Catalog Using Machine Learning}",
-    journal = {\apj},
-    keywords = {Blazars, Astrophysics - High Energy Astrophysical Phenomena},
-    year = "2019",
-    month = "Dec",
-    volume = {887},
-    number = {2},
-    eid = {134},
-    pages = {134},
-    doi = {10.3847/1538-4357/ab558b},
-    archivePrefix = {arXiv},
-    eprint = {1911.02570},
-     primaryClass = {astro-ph.HE},
-    adsurl = {https://ui.adsabs.harvard.edu/abs/2019ApJ...887..134K},
-    adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+    author          = {{Kang}, Shi-Ju and {Li}, Enze and {Ou}, Wujing and {Zhu}, Kerui and {Fan}, Jun-Hui and {Wu}, Qingwen and {Yin}, Yue},
+    title           = "{Evaluating the Classification of Fermi BCUs from the 4FGL Catalog Using Machine Learning}",
+    journal         = {\apj},
+    keywords        = {Blazars, Astrophysics - High Energy Astrophysical Phenomena},
+    year            = "2019",
+    month           = "Dec",
+    volume          = {887},
+    number          = {2},
+    eid             = {134},
+    pages           = {134},
+    doi             = {10.3847/1538-4357/ab558b},
+    archivePrefix   = {arXiv},
+    eprint          = {1911.02570},
+    primaryClass   = {astro-ph.HE},
+    adsurl          = {https://ui.adsabs.harvard.edu/abs/2019ApJ...887..134K},
+    adsnote         = {Provided by the SAO/NASA Astrophysics Data System}
     }
 
 
